@@ -6,5 +6,11 @@
   </picture>
 </p>
 
-# <center>Automated Install Pi-Hole | Using **Ubuntu**</center>
+# <center>Automated Install Pi-Hole | Using [Ubuntu](https://ubuntu.com/download)</center>
 
+
+- First, you need to open the *terminal* of ubuntu
+```bash
+curl -sSL https://install.pi-hole.net | bash
+```
+<img src="./IMG/Install-pihole.png"/>
