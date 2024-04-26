@@ -14,3 +14,7 @@
 curl -sSL https://install.pi-hole.net | bash
 ```
 <img src="./IMG/Install-pihole.png"/>
+
+---
+
+- Later it´s appear a complete interface
