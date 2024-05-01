@@ -45,7 +45,9 @@ Inside your **Terminal** type or copy and paste the following code:
 sudo curl -sSL https://install.pi-hole.net | bash
 ```
 
-> Follow the steps below once you have installed Pi-Hole on a terminal.
+---
+
+Follow the steps below once you have installed Pi-Hole on a terminal.
 
 <div style="display: flex;">
   <img src="./IMG/StaticIpNeeded.png" width="413px" />
