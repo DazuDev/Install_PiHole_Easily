@@ -5,14 +5,14 @@
     <img src="https://pi-hole.github.io/graphics/Vortex/Vortex_Vertical_wordmark_lightmode.png" width="168" height="270" alt="Pi-hole website">
   </picture>
     <br>
-    <strong>Network-wide ad blocking via your own Linux hardware</strong>
+    <strong>Network-wide ad blocking via your own Linux hardware.</strong>
 </p>
 
 # <center>Steps to install _Pi-Hole_</center>
 
 - You need a system that is a linux distribution | You can also use a virtual machine.
-- You need to install certain terminal dependencies
-- I _**recommend**_ that you take notes
+- You need to install certain terminal dependencies.
+- I _**recommend**_ that you take notes.
 
 ## Install [Ubuntu](https://ubuntu.com/download)
 
@@ -44,3 +44,14 @@ Inside your **Terminal** type or copy and paste the following code:
 ```bash
 sudo curl -sSL https://install.pi-hole.net | bash
 ```
+
+> Follow the steps below once you have installed Pi-Hole on a terminal.
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1 0 50%;"><img src="./IMG/StaticIpNeeded.png" /></div>
+  <div style="flex: 1 0 50%;"><img src="./IMG/IpStaticAddress.png" /></div>
+  <div style="flex: 1 0 50%;"><img src="./IMG/DnsProvider.png" /></div>
+  <div style="flex: 1 0 50%;"><img src="./IMG/Blocklists.png" /></div>
+  <div style="flex: 1 0 50%;"><img src="./IMG/AdminWebInterface.png" /></div>
+  <div style="flex: 1 0 50%;"><img src="./IMG/PrivacyFtl.png" /></div>
+</div>
