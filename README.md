@@ -47,11 +47,11 @@ sudo curl -sSL https://install.pi-hole.net | bash
 
 > Follow the steps below once you have installed Pi-Hole on a terminal.
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1 0 50%;"><img src="./IMG/StaticIpNeeded.png" /></div>
-  <div style="flex: 1 0 50%;"><img src="./IMG/IpStaticAddress.png" /></div>
-  <div style="flex: 1 0 50%;"><img src="./IMG/DnsProvider.png" /></div>
-  <div style="flex: 1 0 50%;"><img src="./IMG/Blocklists.png" /></div>
-  <div style="flex: 1 0 50%;"><img src="./IMG/AdminWebInterface.png" /></div>
-  <div style="flex: 1 0 50%;"><img src="./IMG/PrivacyFtl.png" /></div>
+<div style="display: flex;">
+  <div style="flex: 50%;"><img src="./IMG/StaticIpNeeded.png" /></div>
+  <div style="flex: 50%;"><img src="./IMG/IpStaticAddress.png" /></div>
+  <div style="flex: 50%;"><img src="./IMG/DnsProvider.png" /></div>
+  <div style="flex: 50%;"><img src="./IMG/Blocklists.png" /></div>
+  <div style="flex: 50%;"><img src="./IMG/AdminWebInterface.png" /></div>
+  <div style="flex: 50%;"><img src="./IMG/PrivacyFtl.png" /></div>
 </div>
