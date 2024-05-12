@@ -16,13 +16,13 @@
 
 ## Install [Ubuntu](https://ubuntu.com/download)
 
-To use Ubuntu you need to know the architecture of your processor, either [**RISC**](https://es.wikipedia.org/wiki/Reduced_instruction_set_computing) used for example by _ARM_ processors or [**CISC**](https://wikipedia.org/wiki/Complex_instruction_set_computer) used for example by _AMD_ or _Intel_ (x64_32).
+To use Ubuntu you need to know the architecture of your processor, either [**RISC**](https://es.wikipedia.org/wiki/Reduced_instruction_set_computing) used for example by _ARM_ processors or [**CISC**](https://wikipedia.org/wiki/Complex_instruction_set_computer) used for example by _AMD_ or _Intel_ (x86).
 
 ### Install for chips _ARM_ (x64_32 Bits)
 
 You need to install the [**Ubuntu Server**](https://ubuntu.com/download/server) version as there is no desktop version for _ARM_ users yet, I recommend you to watch a video on how to install ubuntu server for RISC chips.
 
-### Install for chips _AMD_ or _Intel_ (x86_64_32 Bits)
+### Install for chips _AMD_ or _Intel_ (x86)
 
 To install ubuntu faster and easier I recommend using the [**Ubuntu Desktop**](https://ubuntu.com/download/desktop) version as it has the default graphical interface of the ubuntu operating system, I recommend you to watch a video on how to install ubuntu Desktop for CISC chips.
 
